@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#388E3C</color>
+    <color name="colorPrimaryDark">#4CAF50</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="active_buttons_color">#ff19d115</color>
+    <color name="text_black">#FF101010</color>
+    <color name="normal_text">#ff7a8a8c</color>
+
+
+    <color name="grey">#818181</color>
+
+    <!-- Material colors -->
+    <color name="grey_900">#212121</color>
+    <color name="grey_800">#424242</color>
+    <color name="grey_500">#9E9E9E</color>
+    <color name="grey_200">#EEEEEE</color>
+</resources>

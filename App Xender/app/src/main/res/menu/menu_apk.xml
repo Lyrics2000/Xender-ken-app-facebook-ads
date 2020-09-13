@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_send_apk"
+        android:orderInCategory="100"
+        android:title="@string/send_one_apk" />
+    <item
+        android:id="@+id/action_send_link"
+        android:orderInCategory="101"
+        android:title="@string/send_link" />
+    <item
+        android:id="@+id/action_app_info"
+        android:orderInCategory="101"
+        android:title="@string/app_info" />
+</menu>

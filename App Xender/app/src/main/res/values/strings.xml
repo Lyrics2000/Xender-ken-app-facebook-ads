@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">App Xender</string>
+
+    <string name="loading">Loading</string>
+    <string name="no_installed_apps">No Installed Apps</string>
+    <string name="search_apps">Search Apps</string>
+    <string name="send_apk">Send Apk</string>
+    <string name="share_with">Share with</string>
+    <string name="link_share_subject">Some URLS shared with Apps Sender Apk</string>
+    <string name="apk_share_subject">Here are some files</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="app_info">App Info</string>
+    <string name="send_link">Send Link</string>
+    <string name="send_one_apk">Send Apk</string>
+    <string name="refresh">Refresh</string>
+    <string name="search_edit_box">Search</string>
+    <string name="choose_apps">Select Apps</string>
+    <string name="choose_apps_to_send">Choose Apps to Send</string>
+    <string name="share_apps_title">Share Apps</string>
+    <string name="share_apps_subject">Share Applications APK</string>
+    <!-- Title text for the empty view, which describes the empty dog house image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+    <!-- ADS -->
+    <string name = "native_ads_fb">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <string name = "interstitial_ads_fb">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <string name = "banner_ads_fb">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to add a pet [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Apps did not load</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="about_activity_name">About</string>
+    <string name="settings_activity_name">Settings</string>
+    <string name="delete_dialog_title">Delete Apps</string>
+    <string name="action_search">Search</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="label_rate_us">Rate Us</string>
+    <string name="label_share_app">Share App</string>
+    <string name="label_interstitial_ad_unit">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="label_banner_ad">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="label_native_ad">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="app_unit_id">ca-app-pub-4815828183175435~9078877506</string>
+    <string name="title">Rate this App</string>
+    <string name="rateNow">Rate Now</string>
+    <string name="remindLater">Remind me later</string>
+    <string name="remindNever">Never Remind</string>
+    <string name="message">Like the app? Rate us on playstore</string>
+</resources>

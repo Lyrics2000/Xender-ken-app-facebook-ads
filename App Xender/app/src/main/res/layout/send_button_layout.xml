@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/btn_send_files"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimary"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:paddingBottom="15.0dip"
+    android:paddingTop="15.0dip">
+
+
+    <TextView
+        android:id="@+id/tv_send_files"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_apps"
+        android:textColor="#ffffffff"
+        android:textSize="20.0sp" />
+
+    <TextView
+        android:id="@+id/selected_file_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5.0dip"
+        android:text=""
+        android:textColor="#ffffffff"
+        android:textSize="18.0sp" />
+</LinearLayout>
